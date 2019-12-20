@@ -8,9 +8,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.Stack;
 
-/**
- * Hello world!
- */
+
 public class App {
     public static void main(String[] args) {
         TravelingSalesman ts = new TravelingSalesman();
