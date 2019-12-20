@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bbw.ch.AppTest" time="0.032" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\eplatform\my documents\TSP\travelin-salesman\target\test-classes;C:\eplatform\my documents\TSP\travelin-salesman\target\classes;C:\eplatform\lib\m3-repository\junit\junit\4.11\junit-4.11.jar;C:\eplatform\lib\m3-repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-controls\13\javafx-controls-13.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-controls\13\javafx-controls-13-win.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-graphics\13\javafx-graphics-13.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-graphics\13\javafx-graphics-13-win.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-base\13\javafx-base-13.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-base\13\javafx-base-13-win.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="user.country.format" value="CH"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\eplatform\java\jdk1.8.0-x64\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\c199494\AppData\Local\Temp\1\surefire5756879096829091039\surefirebooter5542445658880860837.jar C:\Users\c199494\AppData\Local\Temp\1\surefire5756879096829091039 2019-12-20T13-38-18_258-jvmRun1 surefire5441765492959284224tmp surefire_06399367952240156465tmp"/>
+    <property name="surefire.test.class.path" value="C:\eplatform\my documents\TSP\travelin-salesman\target\test-classes;C:\eplatform\my documents\TSP\travelin-salesman\target\classes;C:\eplatform\lib\m3-repository\junit\junit\4.11\junit-4.11.jar;C:\eplatform\lib\m3-repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-controls\13\javafx-controls-13.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-controls\13\javafx-controls-13-win.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-graphics\13\javafx-graphics-13.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-graphics\13\javafx-graphics-13-win.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-base\13\javafx-base-13.jar;C:\eplatform\lib\m3-repository\org\openjfx\javafx-base\13\javafx-base-13-win.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\c199494"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\eplatform\java\jdk1.8.0-x64\jre"/>
+    <property name="basedir" value="C:\eplatform\my documents\TSP\travelin-salesman"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\c199494\AppData\Local\Temp\1\surefire5756879096829091039\surefirebooter5542445658880860837.jar"/>
+    <property name="sun.boot.class.path" value="C:\eplatform\java\jdk1.8.0-x64\jre\lib\resources.jar;C:\eplatform\java\jdk1.8.0-x64\jre\lib\rt.jar;C:\eplatform\java\jdk1.8.0-x64\jre\lib\sunrsasign.jar;C:\eplatform\java\jdk1.8.0-x64\jre\lib\jsse.jar;C:\eplatform\java\jdk1.8.0-x64\jre\lib\jce.jar;C:\eplatform\java\jdk1.8.0-x64\jre\lib\charsets.jar;C:\eplatform\java\jdk1.8.0-x64\jre\lib\jfr.jar;C:\eplatform\java\jdk1.8.0-x64\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_202-b08"/>
+    <property name="user.name" value="C199494"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\eplatform\java\jdk1.8.0-x64\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\eplatform\lib\m3-repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\c199494\AppData\Local\Temp\1\"/>
+    <property name="java.version" value="1.8.0_202"/>
+    <property name="user.dir" value="C:\eplatform\my documents\TSP\travelin-salesman"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="user.language.format" value="de"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\eplatform\java\jdk1.8.0-x64\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Sysdat\Tools;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\PTKT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\c199494\AppData\Local\Microsoft\WindowsApps;C:\Users\c199494\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Fiddler\;C:\eplatform\tools\Git\bin;C:\eplatform\myTools\Node\node;C:\eplatform\tools\maven\3.6\bin;;C:\Users\c199494\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.202-b08"/>
+    <property name="java.ext.dirs" value="C:\eplatform\java\jdk1.8.0-x64\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.bbw.ch.AppTest" time="0.001"/>
+</testsuite>
