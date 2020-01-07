@@ -10,9 +10,7 @@ import javafx.scene.text.Text;
 
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.ResourceBundle;
 
@@ -37,7 +35,7 @@ public class TravelingSalesmanController implements Initializable {
 
         reset.setOnMouseClicked(event -> {
             this.nodes.clear();
-            gc.clearRect(0,0,canvas.getWidth(), canvas.getHeight());
+            gc.clearRect(0, 0, canvas.getWidth(), canvas.getHeight());
             this.smallestWay.setText("");
         });
 
@@ -49,7 +47,7 @@ public class TravelingSalesmanController implements Initializable {
                 if (this.nodes.size() > 1) {
                     this.smallestWay.setText("Smallest way: "
                             + round(ts.getSmallestWay(new ArrayList<>(this.nodes.values())))
-                            + " -> " + ts.getPoints());
+                            + " -> " + ts.getPointsSmallestWay());
                 }
 
                 for (Node node : nodes.values()) {
